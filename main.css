@@ -464,17 +464,17 @@ p {
 	transition: 0.4s;
 }
 
-<<<<<<< HEAD
-/* Section for Blog Post */
+/* Section for Blog */
+
 .blog-post {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     padding: 1em;
     border-left: 3px solid #f1f1f1;
     transition: all 0.3s ease;
 }
 
 .blog-post:hover {
-    border-left-color: #333;
+    border-left-color: #1772d0;
     background-color: #f9f9f9;
 }
 
@@ -482,26 +482,17 @@ p {
     margin-bottom: 0.5em;
 }
 
-.blog-post a {
-    font-size: 0.95em;
-}
-
 .blog-excerpt {
     color: #666;
-    margin: 0.5em 0;
-    font-size: 0.9em;  
-    line-height: 1.4;
+    margin: 0.1em 0;
 }
 
 .blog-date {
     color: #888;
-    font-size: 0.8em;
+    font-size: 0.6em;
     margin-top: 0.5em;
 }
 
-
-=======
->>>>>>> parent of 4746b1d (blog added)
 @media screen and (max-width: 1000px) {
 	.column {
 		flex: 50%;
