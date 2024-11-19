@@ -490,6 +490,7 @@ p {
 	transition: 0.4s;
 }
 
+/* Section for Blog Post */
 .blog-post {
     margin-bottom: 2em;
     padding: 1em;
@@ -506,14 +507,20 @@ p {
     margin-bottom: 0.5em;
 }
 
+.blog-post a {
+    font-size: 0.95em;
+}
+
 .blog-excerpt {
     color: #666;
     margin: 0.5em 0;
+    font-size: 0.9em;  
+    line-height: 1.4;
 }
 
 .blog-date {
     color: #888;
-    font-size: 0.9em;
+    font-size: 0.8em;
     margin-top: 0.5em;
 }
 
